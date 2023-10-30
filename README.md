@@ -5,6 +5,8 @@ Terms of Service
   -  No intentional spamming.
   -  Inaprotriate use of the Bot may result in a ban of usage.
   -  The client is responsible for any violation caused by them.
+  -  No inappropriate Naming or Names.
+  -  No intentional hate.
   -  We reserve the right to update the Terms of Service.
 
 
